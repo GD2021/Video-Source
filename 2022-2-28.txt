@@ -7,6 +7,7 @@ CCTV-1 综合 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Content
 CCTV-2 财经 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000023315&livemode=1&stbId=2&channel-id=ystenlive
 CCTV-3 综艺 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000013682&livemode=1&stbId=2&channel-id=ystenlive
 CCTV-4 中文国际 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000002000031664&livemode=1&stbId=2&channel-id=ystenlive
+CCTV4-欧洲HD,http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
 CCTV5,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000004794&livemode=1&stbId=2&channel-id=ystenlive
 CCTV-5+ 体育赛事 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000020505&livemode=1&stbId=2&channel-id=ystenlive
 CCTV-6 电影 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000001737&livemode=1&stbId=2&channel-id=ystenlive
@@ -111,6 +112,14 @@ TVBS新闻,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d6
 台视,http://dllb.jxin122.top/jj.php?id=45&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 华视,http://dllb.jxin122.top/jj.php?id=46&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 中视,http://dllb.jxin122.top/jj.php?id=47&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.157/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.138/sat/tv111
+华视,rtmp://59.124.75.157/sat/tv111
 
 🎬新闻频道,#genre#
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -123,6 +132,16 @@ TVBS新闻,http://dllb.jxin122.top/jj.php?id=38&p=0&c=3&key=ced06b227baa54c961d6
 三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 中国新华新闻,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 華視新聞,http://p06.iptv2asia.com:18888/http/010
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
+民视综艺台,http://seb.sason.top/ptv/ftv.php?id=zy
+民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
+民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+momo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 
 
 🎬海外频道,#genre#
