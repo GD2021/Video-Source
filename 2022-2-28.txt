@@ -66,8 +66,18 @@ CCTV央视文化精品8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PL
 
 🎬香港频道,#genre#
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+凤凰资讯,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-
+凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
+凤凰中文,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8
+凤凰香港,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
+凤凰香港,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8
+MoMo综合台,rtmp://59.124.75.138/sat/tv761
+MoMo综合台,rtmp://59.124.75.157/sat/tv761
+港台電視32,https://cdn.hkdtmb.com/raw/32.ts
+港台電視33,https://cdn.hkdtmb.com/raw/33.ts
 
 
 🎬台湾频道,#genre#
@@ -149,6 +159,7 @@ CCM,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct
 CCTV-6 电影 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000001737&livemode=1&stbId=2&channel-id=ystenlive
 北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 Hot亚洲影院,http://39.136.48.23:8089/PLTV/88888888/224/3221225844/index.m3u8
 Hot欧美影院,http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
@@ -171,7 +182,9 @@ Hot欧美影院,http://39.136.48.23:8089/PLTV/88888888/224/3221226345/index.m3u8
 直播剧场影音4台HD,http://117.148.179.139/PLTV/88888888/224/3221231652/index.m3u8
 直播剧场影音5台HD,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+卫视电影台,http://iptv.tvfix.org/hls/starmovies.m3u8
 卫视电影台,http://211.23.114.106:8553/,http/116.50.42.19:8081/hls/62/804/ch07.m3u8
+
 
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
 1905电影,http://zzy789.xyz/douyu1.php?id=10011042
@@ -444,26 +457,93 @@ Migutv-7套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 金庸,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 
 🎬测试频道,#genre#
-TVBS新闻,rtmp://59.124.75.138/sat/tv551
-TVBS新闻,rtmp://59.124.75.157/sat/tv551
-TVBS欢乐,rtmp://59.124.75.138/sat/tv421
-TVBS欢乐,rtmp://59.124.75.157/sat/tv421
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
-东森财经新闻,rtmp://59.124.75.157/sat/tv571
-纬来育乐,rtmp://59.124.75.138/sat/tv701
-纬来育乐,rtmp://59.124.75.157/sat/tv701
-纬来体育,rtmp://59.124.75.138/sat/tv721
-纬来体育,rtmp://59.124.75.156/sat/tv721
-纬来体育,rtmp://59.124.75.157/sat/tv721
-纬来日本,rtmp://59.124.75.138/sat/tv771
-纬来日本,rtmp://59.124.75.157/sat/tv771
 
-MoMo综合台,rtmp://59.124.75.138/sat/tv761
-MoMo综合台,rtmp://59.124.75.157/sat/tv761
+林正英,http://zzy789.xyz/douyu1.php?id=218859
+斗鱼12,http://zzy789.xyz/douyu1.php?id=9650887
+斗鱼13,http://zzy789.xyz/douyu1.php?id=2516864
+斗鱼14,http://zzy789.xyz/douyu1.php?id=252802
+斗鱼15,http://zzy789.xyz/douyu1.php?id=20415
+斗鱼16,http://zzy789.xyz/douyu1.php?id=8985415
+斗鱼17,http://zzy789.xyz/douyu1.php?id=4332
+斗鱼18,http://zzy789.xyz/douyu1.php?id=9641152
+斗鱼19,http://zzy789.xyz/douyu1.php?id=6655271
+斗鱼20,http://zzy789.xyz/douyu1.php?id=8912038
+斗鱼21,http://zzy789.xyz/douyu1.php?id=10240539
+斗鱼22,http://zzy789.xyz/douyu1.php?id=7305938
+斗鱼23,http://zzy789.xyz/douyu1.php?id=8814650
+斗鱼24,http://zzy789.xyz/douyu1.php?id=9275635
+斗鱼25,http://zzy789.xyz/douyu1.php?id=434971
+斗鱼26,http://zzy789.xyz/douyu1.php?id=6140589
+斗鱼27,http://zzy789.xyz/douyu1.php?id=1504768
+斗鱼28,http://zzy789.xyz/douyu1.php?id=52787
+斗鱼29,http://zzy789.xyz/douyu1.php?id=5403257
+斗鱼30,http://zzy789.xyz/douyu1.php?id=10395937
+斗鱼31,http://zzy789.xyz/douyu1.php?id=7925840
+斗鱼32,http://zzy789.xyz/douyu1.php?id=1735337
+斗鱼33,http://zzy789.xyz/douyu1.php?id=310926
+斗鱼34,http://zzy789.xyz/douyu1.php?id=1377142
+斗鱼35,http://zzy789.xyz/douyu1.php?id=9292492
+斗鱼36,http://zzy789.xyz/douyu1.php?id=1174353
+斗鱼37,http://zzy789.xyz/douyu1.php?id=248753
+斗鱼38,http://zzy789.xyz/douyu1.php?id=5581257
+斗鱼39,http://zzy789.xyz/douyu1.php?id=2793084
+斗鱼40,http://zzy789.xyz/douyu1.php?id=6537888
+斗鱼41,http://zzy789.xyz/douyu1.php?id=7882691
+斗鱼42,http://zzy789.xyz/douyu1.php?id=7190773
+斗鱼43,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv
+国语动漫,http://zzy789.xyz/douyu1.php?id=6449849
+斗鱼4K,http://zzy789.xyz/douyu1.php?id=9249162
 
-港台電視32,https://cdn.hkdtmb.com/raw/32.ts
-港台電視33,https://cdn.hkdtmb.com/raw/33.ts
-
-
+翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
+无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台(第2声道),http://iptv.tvfix.org/hls/pearl2.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
+无线财经资讯台(第2声道),http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV 第二声道,http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+香港国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
+香港开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+NHK综合,http://iptv.tvfix.org/hls/nhkg.m3u8
+NHK教育,http://iptv.tvfix.org/hls/nhke.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
+天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
+天映经典(普通话),http://iptv.tvfix.org/hls/tyjd2.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
+Animax(第2声道),http://iptv.tvfix.org/hls/animax2.m3u8
+Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
+Thrill(第2声道),http://iptv.tvfix.org/hls/thrill2.m3u8
+TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
+动物星球,http://iptv.tvfix.org/hls/animal.m3u8
+Love Nature,http://iptv.tvfix.org/hls/lovenature4k.m3u8
+Love Nature,http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+卫视电影台,http://iptv.tvfix.org/hls/starmovies.m3u8
+天映频道,http://iptv.tvfix.org/hls/typd.m3u8
+HBO Hits (第一声道粤语),http://iptv.tvfix.org/hls/hbo.m3u8
+HBO Hits(第二声道原声),http://iptv.tvfix.org/hls/hbo2.m3u8
+Hands Up Channel(第2声道),http://iptv.tvfix.org/hls/kid2.m3u8
+国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
+国家地理 第二声道,http://iptv.tvfix.org/hls/natlgeo2.m3u8
 
 
