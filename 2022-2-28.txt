@@ -131,7 +131,6 @@ NHK World Japan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.
 精彩综艺 ,http://39.134.19.252:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑莓电影,http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
 Flix,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-CCM,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 CCTV-6 电影 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000001737&livemode=1&stbId=2&channel-id=ystenlive
 北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 CHC家庭影院,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -468,5 +467,25 @@ Migutv-7套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 斗鱼42,http://zzy789.xyz/douyu1.php?id=7190773
 斗鱼43,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv
 
-
+纯享4K 20M2160,http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226825/1.m3u8
+CCTV1 3M1080,http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
+CCTV1 3M1080,http://[2001:250:5405:13::47]/hls/jlu_cctv1hd.m3u8
+CCTV1 8M1080,http://[2001:250:5405:13::47]/hls/hls27.m3u8
+CCTV1 8M1080,http://[2001:250:5405:13::47]/hls/hls74a2.m3u8
+CCTV2 3M1080,http://[2001:250:5405:13::47]/hls/cctv2hd.m3u8
+CCTV2 8M1080,http://[2001:250:5405:13::47]/hls/hls135.m3u8
+CCTV2 8M1080,http://[2001:250:5405:13::47]/hls/hls74a3.m3u8
+CCTV3 3M1080,http://[2001:250:5405:13::47]/hls/cctv3hd.m3u8
+CCTV4 3M1080,http://[2001:250:5405:13::47]/hls/cctv4hd.m3u8
+CCTV4 8M1080,http://[2001:250:5405:13::47]/hls/hls4.m3u8
+CCTV4 8M1080,http://[2001:250:5405:13::47]/hls/hls68a40.m3u8
+CCTV5 3M1080,http://[2001:250:5405:13::47]/hls/cctv5hd.m3u8
+CCTV5 3M1080,http://[2001:250:5405:13::47]/hls/jlu_cctv5hd.m3u8
+CCTV5 8M1080,http://[2001:250:5405:13::47]/hls/hls73a5.m3u8
+CCTV5+ 3M1080,http://[2001:250:5405:13::47]/hls/cctv5phd.m3u8
+CCTV5+ 8M1080,http://[2001:250:5405:13::47]/hls/hls73a6.m3u8
+CCTV5+ 8M1080,http://[2001:250:5405:13::47]/hls/hls92.m3u8
+CCTV5+ 8M1080,http://[2001:250:5405:13::47]/hls/jlu_cctv5p.m3u8
+CCTV6 3M1080,http://[2001:250:5405:13::47]/hls/cctv6hd.m3u8
+CCTV7 3M1080,http://[2001:250:5405:13::47]/hls/cctv7hd.m3u8
 
