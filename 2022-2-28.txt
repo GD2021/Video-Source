@@ -467,25 +467,17 @@ Migutv-7套武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 斗鱼42,http://zzy789.xyz/douyu1.php?id=7190773
 斗鱼43,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv
 
-纯享4K 20M2160,http://[2001:250:5405:13::47]/PLTV/88888888/224/3221226825/1.m3u8
-CCTV1 3M1080,http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
-CCTV1 3M1080,http://[2001:250:5405:13::47]/hls/jlu_cctv1hd.m3u8
-CCTV1 8M1080,http://[2001:250:5405:13::47]/hls/hls27.m3u8
-CCTV1 8M1080,http://[2001:250:5405:13::47]/hls/hls74a2.m3u8
-CCTV2 3M1080,http://[2001:250:5405:13::47]/hls/cctv2hd.m3u8
-CCTV2 8M1080,http://[2001:250:5405:13::47]/hls/hls135.m3u8
-CCTV2 8M1080,http://[2001:250:5405:13::47]/hls/hls74a3.m3u8
-CCTV3 3M1080,http://[2001:250:5405:13::47]/hls/cctv3hd.m3u8
-CCTV4 3M1080,http://[2001:250:5405:13::47]/hls/cctv4hd.m3u8
-CCTV4 8M1080,http://[2001:250:5405:13::47]/hls/hls4.m3u8
-CCTV4 8M1080,http://[2001:250:5405:13::47]/hls/hls68a40.m3u8
-CCTV5 3M1080,http://[2001:250:5405:13::47]/hls/cctv5hd.m3u8
-CCTV5 3M1080,http://[2001:250:5405:13::47]/hls/jlu_cctv5hd.m3u8
-CCTV5 8M1080,http://[2001:250:5405:13::47]/hls/hls73a5.m3u8
-CCTV5+ 3M1080,http://[2001:250:5405:13::47]/hls/cctv5phd.m3u8
-CCTV5+ 8M1080,http://[2001:250:5405:13::47]/hls/hls73a6.m3u8
-CCTV5+ 8M1080,http://[2001:250:5405:13::47]/hls/hls92.m3u8
-CCTV5+ 8M1080,http://[2001:250:5405:13::47]/hls/jlu_cctv5p.m3u8
-CCTV6 3M1080,http://[2001:250:5405:13::47]/hls/cctv6hd.m3u8
-CCTV7 3M1080,http://[2001:250:5405:13::47]/hls/cctv7hd.m3u8
+CCTV1 3M1080,http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
+CCTV1 3M1080,http://itv.ahau.edu.cn/hls/jlu_cctv1hd.m3u8
+CCTV1 8M1080,http://itv.ahau.edu.cn/hls/hls27.m3u8
+CCTV1 8M1080,http://itv.ahau.edu.cn/hls/hls74a2.m3u8
+CCTV2 3M1080,http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
+CCTV2 8M1080,http://itv.ahau.edu.cn/hls/hls135.m3u8
+CCTV2 8M1080,http://itv.ahau.edu.cn/hls/hls74a3.m3u8
+CCTV3 3M1080,http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+CCTV4 3M1080,http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
+CCTV4 8M1080,http://itv.ahau.edu.cn/hls/hls4.m3u8
+CCTV4 8M1080,http://itv.ahau.edu.cn/hls/hls68a40.m3u8
+CCTV5 3M1080,http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+CCTV5 3M1080,http://itv.ahau.edu.cn/hls/jlu_cctv5hd.m3u8
 
