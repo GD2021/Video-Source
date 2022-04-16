@@ -57,7 +57,6 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
 北京青年 FHD,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 北京新闻 FHD,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
 卡酷少儿 FHD,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 山东体育,http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
 山东公共,http://39.136.48.21:8089/PLTV/88888888/224/3221226077/index.m3u8
 山东农科,http://39.136.48.21:8089/PLTV/88888888/224/3221226018/index.m3u8
