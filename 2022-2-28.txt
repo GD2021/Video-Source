@@ -3,43 +3,47 @@ CCTV4K超高清(1920x1080),http://117.148.179.157/PLTV/88888888/224/3221233460/i
 CCTV8K超高清(1920x1080),http://117.148.179.157/PLTV/88888888/224/3221233404/index.m3u8
 CCTV16 4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 CCTV4K,https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php#http://iptv.tvfix.org/hls/cctv4k.m3u8
-CCTV-1 综合 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-2 财经 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000023315&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-3 综艺 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000013682&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-4 中文国际 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000002000031664&livemode=1&stbId=2&channel-id=ystenlive
-CCTV4-欧洲HD,http://117.148.179.162/TVOD/88888888/224/3221231615/index.m3u8
-CCTV5,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000004794&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-5+ 体育赛事 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000020505&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-6 电影 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000001737&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-7 国防军事 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000024341&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-8 电视剧 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000003736&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-9 纪录 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000014583&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-10 科教 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000023734&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-11 戏曲 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000002000019789&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-12 社会与法 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000032494&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-14 少儿 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000001000008170&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-15 音乐 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000002000008163&livemode=1&stbId=2&channel-id=ystenlive
-CCTV-17 农村农业 高清,http://39.135.187.130/0000000000001001/1/index.m3u8?Contentid=1000000005000056836&livemode=1&stbId=2&channel-id=ystenlive
-CCTV兵器科技 8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-CCTV风云剧场 8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-CCTV第一剧场 8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226121/1/index.m3u8?fmt=ts2hls
-CCTV电视指南 8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CCTV女性时尚8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-CCTV央视文化精品8M1080,http://39.136.66.36:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226221/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
+CCTV2,http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
+CCTV4,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+CCTV5,http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
+CCTV5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
+CCTV5+,http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV6,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+CCTV6,http://39.135.138.58:18890/PLTV/88888888/224/3221225650/index.m3u8
+CCTV7,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+CCTV7,http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
+CCTV8,http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
+CCTV8,http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
+CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
+CCTV10,http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
+CCTV10,http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
+CCTV11,http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+CCTV12,http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+CCTV12,http://39.135.138.58:18890/PLTV/88888888/224/3221225637/index.m3u8
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+CCTV14,http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
+CCTV14,http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
+CCTV15,http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226230/index.m3u8
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
+CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
 
 🎬卫视高清,#genre#
-浙江卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000007275&livemode=1&channel-id=bestzb&stbId=10
-湖北卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000014954&livemode=1&channel-id=bestzb&stbId=10
-湖南卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000010000030452&livemode=1&channel-id=bestzb&stbId=10
-天津卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000030788&livemode=1&channel-id=bestzb&stbId=10
-山东卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000016568&livemode=1&channel-id=ystenlive&stbId=10
-深圳卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000007410&livemode=1&channel-id=bestzb&stbId=10
-江苏卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000019351&livemode=1&channel-id=bestzb&stbId=10
-安徽卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000027288&livemode=1&channel-id=bestzb&stbId=10
-辽宁卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001945&livemode=1&channel-id=ystenlive&stbId=10
-重庆卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=1000000001000001096&livemode=1&channel-id=ystenlive&stbId=10
-黑龙江卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000025203&livemode=1&channel-id=bestzb&stbId=10
-北京卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000031556&livemode=1&channel-id=bestzb&stbId=10
+31556&livemode=1&channel-id=bestzb&stbId=10
 广东卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000004000014694&livemode=1&channel-id=bestzb&stbId=10
 江西卫视 高清,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000001000032154&livemode=1&channel-id=bestzb&stbId=10
 河北卫视,http://39.135.187.130/0000000000001001/1/1.m3u8?Contentid=5000000006000040016&livemode=1&channel-id=bestzb&stbId=10
