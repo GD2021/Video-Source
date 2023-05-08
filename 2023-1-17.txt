@@ -1,3 +1,4 @@
+🎬央视频道,#genre#
 CCTV1 8M,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3 8M,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
