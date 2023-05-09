@@ -92,34 +92,6 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
 🎬影视频道,#genre#
-火龙果说电影,https://epg.112114.xyz/douyu/9559158
-牛叔说电影,https://epg.112114.xyz/douyu/2758565
-虫哥说电影,https://epg.112114.xyz/douyu/8915074
-电影迷小雅,https://epg.112114.xyz/douyu/9639225
-刘哔电影,https://epg.112114.xyz/douyu/2632223
-老邪说电影,https://epg.112114.xyz/douyu/9222870
-伯乐说电影V,https://epg.112114.xyz/douyu/9386057
-3说电影,https://epg.112114.xyz/douyu/9643264
-怪兽马提尼电影,https://epg.112114.xyz/douyu/9075333
-贰哥电影,https://epg.112114.xyz/douyu/9338867
-看电影了没V,https://epg.112114.xyz/douyu/9562616
-末日说电影,https://epg.112114.xyz/douyu/9431125
-松轩说电影,https://epg.112114.xyz/douyu/1524969
-九叔说电影v,https://epg.112114.xyz/douyu/9348282
-逗米说电影,https://epg.112114.xyz/douyu/421222
-东倾电影,https://epg.112114.xyz/douyu/8344251
-星君说电影,https://epg.112114.xyz/douyu/8014467
-谁语说电影,https://epg.112114.xyz/douyu/8705754
-独立鱼电影,https://epg.112114.xyz/douyu/2413555
-小乔讲电影,https://epg.112114.xyz/douyu/8413908
-指缝里看电影,https://epg.112114.xyz/douyu/9647834
-小丽说电影,https://epg.112114.xyz/douyu/9368016
-菠萝说电影,https://epg.112114.xyz/douyu/3714736
-小儛电影嘚啵嘚,https://epg.112114.xyz/douyu/8362978
-幕撩电影,https://epg.112114.xyz/douyu/9486015
-电影刘油果,https://epg.112114.xyz/douyu/3985805
-发条张的电影最TOP,https://epg.112114.xyz/douyu/2164691
-珞珞说电影,https://epg.112114.xyz/douyu/3718888
 电影黑匣子,https://epg.112114.xyz/douyu/8706652
 电影先锋V,https://epg.112114.xyz/douyu/8711212
 影视集装箱,https://epg.112114.xyz/douyu/8651489
@@ -128,7 +100,10 @@ CCTV17 8M,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 S哥影视,https://epg.112114.xyz/huya/24720260
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
-
+斗鱼电影3,http://epg.112114.xyz/douyu/431460
+斗鱼电影9,http://epg.112114.xyz/douyu/6566671
+斗鱼电影14,http://epg.112114.xyz/douyu/413573
+斗鱼电影8,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&amp;token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&amp;logo=0&amp;expire=0&amp;did=d010b07dcb997ada9934081c873542f0&amp;origin=tct&amp;vhost=p
 
 
 
@@ -142,8 +117,34 @@ PP看动漫,https://epg.112114.xyz/douyu/9837291
 小陶气说动漫,https://epg.112114.xyz/douyu/9527700
 
 
-🎬体育频道,#genre#
-
+🎬台湾频道,#genre#
+无线新闻台,http://flv.mp4cdn.live/gt-key=00569874.php?id=13
+星卫电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=112
+CINEMAX电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
+好莱坞电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=100
+AXN电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
+东森电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=104
+东森洋片台,http://flv.mp4cdn.live/gt-key=00569874.php?id=105
+东森戏剧台,http://flv.mp4cdn.live/gt-key=00569874.php?id=106
+HBO电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=99
+龙华洋片台,http://flv.mp4cdn.live/gt-key=00569874.php?id=107
+龙祥电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=108
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
+三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
+三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
+AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+纬来体育,http://123.51.149.68:18509/0.m3u8
+东森财经新闻,http://123.51.149.68:18515/0.m3u8
+NHK,http://123.51.149.68:18525/0.m3u8
+东森戏剧,http://123.51.149.68:18538/0.m3u8
+东风37,http://123.51.149.68:18560/0.m3u8
+大爱,http://123.51.149.68:18567/0.m3u8
+民视新闻,http://123.51.149.68:18663/0.m3u8
+三立新闻,http://123.51.230.124:8531/.m3u8
+MoMo亲子,http://123.51.230.124:8536/.m3u8
 
 
 
