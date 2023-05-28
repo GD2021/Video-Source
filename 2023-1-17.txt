@@ -141,29 +141,15 @@ CCTV-16,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226
 
 
 🎬影视频道,#genre#
-电影黑匣子,https://epg.112114.xyz/douyu/8706652
-电影先锋V,https://epg.112114.xyz/douyu/8711212
-影视集装箱,https://epg.112114.xyz/douyu/8651489
-贝爷求生影视,https://epg.112114.xyz/douyu/9661369
-铁血影视汇,https://epg.112114.xyz/douyu/9649701
-S哥影视,https://epg.112114.xyz/huya/24720260
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
 豆瓣电影,http://epg.112114.xyz/douyu/8770422
 斗鱼电影3,http://epg.112114.xyz/douyu/431460
 斗鱼电影9,http://epg.112114.xyz/douyu/6566671
 斗鱼电影14,http://epg.112114.xyz/douyu/413573
 斗鱼电影8,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&amp;token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&amp;logo=0&amp;expire=0&amp;did=d010b07dcb997ada9934081c873542f0&amp;origin=tct&amp;vhost=p
-
-🎬体育频道,#genre#
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4K 影视 2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 斗鱼 4K,http://epg.112114.xyz/douyu/9249162
-CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-ELEVEN 體育 2 台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
 🎬动画频道,#genre#
 杰克动漫,https://epg.112114.xyz/huya/19757963
