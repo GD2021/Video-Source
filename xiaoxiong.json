@@ -1,0 +1,23 @@
+{
+  "sites": [
+    { "name": "394tv", "api": "https://www.394tv.com/api.php/provide/vod/" },
+    { "name": "languang", "api": "http://www.zzrhgg.com/api.php/provide/vod/" },
+    { "name": "夸克", "api": "http://kuakezy1.com/api.php/provide/vod/from/M3U8kuake/" },
+    { "name": "牛資源", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/" },
+    { "name": "快车", "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/" },
+    { "name": "唐人街", "api": "https://www.tangrenjie.tv/api.php/provide/vod/" },
+    { "name": "baidu", "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/" },
+    { "name": "baofen", "api": "https://bfzyapi.com/api.php/provide/vod/" },
+  ],
+  "lives": [
+    {
+      "group": "CCTV",
+      "channels": [
+        { "name": "CCTV1", "urls": ["https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8"] },
+        { "name": "CCTV2", "urls": ["https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8"] },
+        { "name": "CCTV9", "urls": ["https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8"] },
+        { "name": "CCTV10", "urls": ["https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8"] }
+      ]
+    }
+  ]
+}
